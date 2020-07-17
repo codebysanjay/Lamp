@@ -16,9 +16,7 @@ The Icon asset is used to create the application icon.
 #### ScreenShots
 
 <img src="screenshots/Screenshot_1.png" width ="300"/>
-<br>
 <img src="screenshots/Screenshot_2.png" width ="300"/>
-<br>
 <img src="screenshots/Screenshot_3.png" width ="300"/>
 <br>
 
