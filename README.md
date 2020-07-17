@@ -15,14 +15,14 @@ The application used a free icon from FlatIcon.
 The Icon asset is used to create the application icon.
 #### ScreenShots
 
-![screenshot1](screenshots/Screenshot_1.png)
+<img src="screenshots/Screenshot_1.png" width ="300"/>
 <br>
-![screenshot2](screenshots/Screenshot_2.png)
+<img src="screenshots/Screenshot_2.png" width ="300"/>
 <br>
-![screenshot3](screenshots/Screenshot_3.png)
+<img src="screenshots/Screenshot_3.png" width ="300"/>
 <br>
 
 
 #### Download Apk
 
-<a href="screenshots/app-release.apk"><img src="screenshots/apk.png" width ="300"/></a>
+<a href="https://github.com/codebysanjay/Lamp/raw/master/screenshots/app-release.apk"><img src="screenshots/apk.png" width ="300"/></a>
